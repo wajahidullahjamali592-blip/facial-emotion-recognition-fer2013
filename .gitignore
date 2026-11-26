@@ -1,0 +1,12 @@
+# Dataset (large, has its own license; download from Kaggle)
+fer2013/
+fer2013.zip
+archive.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Local test photos and prediction outputs
+face.jpg
+*_pred.jpg
